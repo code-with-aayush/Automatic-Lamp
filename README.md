@@ -7,4 +7,4 @@ Modules to install :
 - pip install pyfirmata
 - pip install SpeechRecognition
 
-author : Aayush Prabhkar
+author : Aayush Prabhakar
